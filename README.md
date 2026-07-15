@@ -1,7 +1,4 @@
-# ⚖️ LexiMind AI  
-## Distributed Legal Contract Intelligence Engine (Kafka + pgvector + Groq RAG)
-
-LexiMind AI is a distributed, microservices-based Legal AI system that enables:
+#AI-Powered Legal Intelligence Engine
 
 - 📄 Contract PDF upload
 - ✂️ Clause extraction
