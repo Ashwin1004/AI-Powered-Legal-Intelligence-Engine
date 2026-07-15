@@ -1,4 +1,4 @@
-#AI-Powered Legal Intelligence Engine
+# AI-Powered Legal Intelligence Engine
 
 - 📄 Contract PDF upload
 - ✂️ Clause extraction
